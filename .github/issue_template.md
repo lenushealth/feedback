@@ -13,12 +13,13 @@ Please use the templates below depending on whether you are submitting a bug rep
 
 ---
 ## BUG REPORT
-
-* **What is the current behavior?**
+* **What is the current behaviour?**
+  - In what way is the current behaviour undesirable, inaccurate
 * **Please provide the steps to reproduce and if possible a minimal demo of the problem**
+  - If you are experiencing Data API issues please link to an example of the request/response messages sent to and received from the Data API
 * **What is the expected behavior?**
-* **If you are experiencing Data API issues please link to an example of the request/response messages sent to and received from the Data API**
-* **Browse/Device information - Where possible please provide screenshots (including url) along with information about your web browser or device make and model**
+* **What workarounds (if any) have you discovered?**
+* **Browser/Device information - Where possible please provide screenshots (including url) along with information about your web browser or device make and model**
 
 * **Other information** (e.g. detailed explanation, stacktraces, related issues, suggestions how to fix, links that provide context to the report/request)
 
@@ -31,5 +32,8 @@ _Please ensure you remove any sensitive data from the information submitted with
 * **Please describe the feature you are looking for**
 * **What is the motivation behind your request for this feature**
 * **What is the use case for changing the existing behavior to support your feature request?**
-
+* **Give if an idea of the priority you would place on the implementing of this feature?**
+  - Would you say that without this feature the platform does not meet your meets?
+  - Is the feature something that would improve your experience using the platform?
+  - Is the feature something that is a "nice to have" or something that other health platforms support?
 ---

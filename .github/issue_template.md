@@ -37,3 +37,13 @@ _Please ensure you remove any sensitive data from the information submitted with
   - Is the feature something that would improve your experience using the platform?
   - Is the feature something that is a "nice to have" or something that other health platforms support?
 ---
+
+## ASK A QUESTION?
+
+Rather than give you a specific template to follow we would ask that any questions are as detailed as possible and include sample code, API request examples and any context you feel would aid in helping us answer your question as quickly and accurately as possible.
+
+Please note that this repository is monitored primarily by the development team working on the platform, which means they are great at talking tech, but any business related questions would be better answered by contacting our sales team, detailing can be found on the [Lenus Health](https://www.lenushealth.com) website.
+
+  As with all posts, remember they are all public and we request that you avoid adding any personal or sensitive information in any code samples and request/response snippets.
+
+Please firstly refer to the [developer documentation](https://github.com/lenushealth/docs) before posting and also try searching this repositories issue history in case a similar question has been previously answered.

@@ -8,12 +8,15 @@ The Lenus Health platform is constantly evolving, new features and improvements 
 
 Whilst we have a very long list of features and improvements we are planning to implement it is vitally important that we provide a forum for developers and end-users to discuss features that either we are planning or that you would like us to consider for implementation...this is that forum.
 
-We would love for those using the platform to submit any feedback about any aspect of the platform to us so we can:
+We would love for those using the platform to submit feedback and questions about any aspect of the platform to us so we can:
 
 - better understand the features of the platform that you like (or dislike)
 - get your opinions on both existing and future features and architecture updates
-- engage with you and your ideas for improvements to the existing platform, or in features you would find beneficial for us to implement
+- engage with you and your ideas for improvements to the platform, or in features you would find beneficial for us to implement
+- Answer any questions you might have about the platform, remember we also have comprehensive documentation in another repository.  Answers to most questions should be available there, if documentation is unclear or missing we would encourage you to raise an issue within the [docs repo](https://github.com/lenushealth/docs) itself.
 
 We really want your feedback, in fact we want to use your feedback to inform our future roadmap.  Every piece of feedback or feature request will be reviewed by our product team and we will get back to you with further questions or discussion.  To this end it is important that your feedback is as detailed as possible.
 
 When you want to leave us feedback please create a new issue within this repository and follow the attached templates for submitting either a bug report, feature request or just general feedback.
+
+For service updates we would also encourage you to follow us on [twitter](https://www.twitter.com/<status-handle>)
